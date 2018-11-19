@@ -45,7 +45,7 @@
 
 ## WebTTY
 
-WebTTY 允许您使用 WebRTC 从计算机共享终端会话。您可以在不设置代理服务器,调试 NAT 后面的服务器等的情况下，与朋友配对。
+WebTTY 允许您使用 WebRTC 共享 你计算机的终端会话。您可以在不设置代理服务器,调试 NAT 后面的服务器等的情况下，与朋友配对。
 
 - WebTTY 也可以在浏览器中使用, 通过此静态页面:<https://maxmcd.github.io/webtty/>试试连接到 WebTTY 会话。
 
